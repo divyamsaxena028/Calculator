@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My calclulator</string>
+    <string name="action_settings">Settings</string>
+    <string name="one_1">1</string>
+    <string name="two_2">2</string>
+    <string name="three_3">3</string>
+    <string name="four_4">4</string>
+    <string name="five_5">5</string>
+    <string name="six_6">6</string>
+    <string name="seven_7">7</string>
+    <string name="eight_8">8</string>
+    <string name="nine_9">9</string>
+    <string name="zero_0">0</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
